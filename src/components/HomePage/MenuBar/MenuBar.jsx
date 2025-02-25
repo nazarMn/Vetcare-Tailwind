@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function HeroBanner() {
   return (
-    <div className="w-full h-[64px] flex items-center">
+    <div className="w-full h-[64px] flex items-center pt-[50px] pl-[100px] pr-[100px]">
       <div className="w-[25%]">
       <h2 className="text-[40px] font-['Nunito'] text-white font-black"><span className='text-[#FF7852]'>Vet</span><span className='text-[#8FC638]'>care</span></h2>
       </div>
