@@ -2,6 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import HomePage from './components/HomePage/HomePage'
 import ServicesPage from './components/ServicesPage/ServicesPage'
+import AboutPage from './components/AboutPage/AboutPage'
 function App() {
 
   return (
@@ -10,6 +11,8 @@ function App() {
       <HomePage />
 
       <ServicesPage />
+
+      <AboutPage />
 
     </div>
   )

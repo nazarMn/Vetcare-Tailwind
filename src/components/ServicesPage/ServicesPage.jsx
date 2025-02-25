@@ -6,7 +6,7 @@ import Card4 from '/Card4.png'
 
 export default function ServicesPage() {
   return (
-    <div className='w-full h-[935px] flex justify-center items-center '>
+    <div className='w-full h-[935px] flex justify-center items-center'>
 
 <div className='w-[1490px] h-[758px] bg-[#FFECE4] rounded-[50px]'>
 
