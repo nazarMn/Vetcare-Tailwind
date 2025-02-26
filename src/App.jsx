@@ -4,6 +4,7 @@ import HomePage from './components/HomePage/HomePage'
 import ServicesPage from './components/ServicesPage/ServicesPage'
 import AboutPage from './components/AboutPage/AboutPage'
 import TeamPage from './components/TeamPage/TeamPage'
+import PricingPlanPage from './components/PricingPlanPage/PricingPlanPage'
 function App() {
 
   return (
@@ -16,6 +17,8 @@ function App() {
       <AboutPage />
 
       <TeamPage />
+
+      <PricingPlanPage />
 
     </div>
   )
