@@ -19,7 +19,7 @@ export default function ServicesPage() {
 
     <div className='w-full h-[70%] flex justify-evenly items-center'>
 
-    <div className='w-[292px] h-[374px] bg-[#FFFFFF] rounded-[30px] flex flex-col justify-center items-center shadow-lg'>
+    <div className='w-[292px] h-[374px] bg-[#FFFFFF] rounded-[30px] flex flex-col justify-center items-center shadow-lg  hover:shadow-2xl hover:shadow-[#FF7751] cursor-pointer'>
 
         <div className='w-full h-[40%] flex justify-center items-center '>
             <div className='w-[100px] h-[100px] rounded-[50%] bg-gradient-to-r from-[#B8DEFF]  to-[#1D97FF] shadow-lg flex justify-center items-center'>
@@ -37,7 +37,7 @@ export default function ServicesPage() {
 
 
 
-        <div className='w-[292px] h-[374px] bg-gradient-to-r from-[#FFBBA9]  to-[#FF6236] rounded-[30px] flex flex-col justify-center items-center shadow-lg'>
+        <div className='w-[292px] h-[374px] bg-gradient-to-r from-[#FFBBA9]  to-[#FF6236] rounded-[30px] flex flex-col justify-center items-center shadow-lg  hover:shadow-2xl hover:shadow-[#FF7751] cursor-pointer'>
 
 <div className='w-full h-[40%] flex justify-center items-center '>
     <div className='w-[100px] h-[100px] rounded-[50%] bg-[#FFFFFF] shadow-lg flex justify-center items-center'>
@@ -54,7 +54,7 @@ export default function ServicesPage() {
 
 
 
-<div className='w-[292px] h-[374px] bg-[#FFFFFF] rounded-[30px] flex flex-col justify-center items-center shadow-lg'>
+<div className='w-[292px] h-[374px] bg-[#FFFFFF] rounded-[30px] flex flex-col justify-center items-center shadow-lg  hover:shadow-2xl hover:shadow-[#FF7751] cursor-pointer'>
 
 <div className='w-full h-[40%] flex justify-center items-center '>
     <div className='w-[100px] h-[100px] rounded-[50%] bg-gradient-to-r from-[#FFE4AA]  to-[#FF9C07] shadow-lg flex justify-center items-center'>
@@ -71,7 +71,7 @@ export default function ServicesPage() {
 
 
 
-<div className='w-[292px] h-[374px] bg-[#FFFFFF] rounded-[30px] flex flex-col justify-center items-center shadow-lg'>
+<div className='w-[292px] h-[374px] bg-[#FFFFFF] rounded-[30px] flex flex-col justify-center items-center shadow-lg  hover:shadow-2xl hover:shadow-[#FF7751] cursor-pointer'>
 
 <div className='w-full h-[40%] flex justify-center items-center '>
     <div className='w-[100px] h-[100px] rounded-[50%] bg-gradient-to-r from-[#AFE6EB]  to-[#36BECB] shadow-lg flex justify-center items-center'>
