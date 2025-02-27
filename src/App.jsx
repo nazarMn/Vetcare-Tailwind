@@ -5,6 +5,7 @@ import ServicesPage from './components/ServicesPage/ServicesPage'
 import AboutPage from './components/AboutPage/AboutPage'
 import TeamPage from './components/TeamPage/TeamPage'
 import PricingPlanPage from './components/PricingPlanPage/PricingPlanPage'
+import CallToActionPage from './components/CallToActionPage/CallToActionPage'
 function App() {
 
   return (
@@ -19,6 +20,8 @@ function App() {
       <TeamPage />
 
       <PricingPlanPage />
+
+      <CallToActionPage />
 
     </div>
   )
