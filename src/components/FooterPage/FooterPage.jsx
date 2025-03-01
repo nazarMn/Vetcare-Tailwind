@@ -6,7 +6,7 @@ export default function FooterPage() {
 
         <div className="w-[1440px] h-[415px] flex flex-col ">
 
-            <div className="w-full h-[65%]   flex justify-between items-start">
+            <div className="w-full h-[90%]   flex justify-between items-start">
 
             <div className="w-[30%] h-full flex flex-col justify-start items-start gap-[30px]">
                 <h2 className="text-[36px]"><samp className='text-[#242851] font-["Nunito"] font-extrabold'>Vet</samp><samp className='text-[#FF7852] font-["Nunito"] font-extrabold'>care</samp></h2>
@@ -73,7 +73,7 @@ export default function FooterPage() {
                 </div>
 
             </div>
-            <div className="w-full h-[35%]   flex justify-center items-end pb-[24px]">
+            <div className="w-full h-[10%]   flex justify-center items-end pb-[24px]">
                 <p className='font-["Quicksand"] text-[18px] text-[#707283] font-regular '>© Copyright 2021 - 2024 | Pet Theme by Md Shamim Hossain | All Rights Reserved</p>
             </div>
 
